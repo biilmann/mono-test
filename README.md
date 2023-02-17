@@ -4,3 +4,4 @@
 * Deploy [a](http://localhost:8888/start/deploy?repository=https://github.com/biilmann/mono-test&base=a)
 * Deploy [b](http://localhost:8888/start/deploy?repository=https://github.com/biilmann/mono-test&base=b)
 * Deploy [c](http://localhost:8888/start/deploy?repository=https://github.com/biilmann/mono-test&base=b/c)
+* Deploy [d](http://localhost:8888/start/deploy?repository=https://github.com/biilmann/mono-test&base=1/2/3/d)
